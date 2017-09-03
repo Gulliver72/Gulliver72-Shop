@@ -87,7 +87,7 @@
   
     public function __construct() {
     
-      $this -> setDatabase;
+      $this -> setDatabase();
     }
     private function setDatabase() {
     

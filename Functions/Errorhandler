@@ -1,4 +1,6 @@
 <?php
+namespace Errorhandler;
+
 /**
 * ErrorHandler.php
 * @author elad dot yosifon at gmail dot com

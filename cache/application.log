@@ -1,0 +1,5 @@
+2018-01-13 15:53:18	[DEBUG]: Contents of object
+ConfigApp::__set_state(array(
+   'data' => NULL,
+   'configs' => NULL,
+))
